@@ -230,7 +230,7 @@ input[type="search"]::-webkit-search-decoration {
 }
 
 fieldset {
-	border: 1px solid #c0c0c0;
+	border: 1px solid #181818;
 	margin: 0 2px;
 	padding: 0.35em 0.625em 0.75em;
 }
@@ -467,7 +467,7 @@ html {
 }
 
 body {
-	background: #f2f2f2; /* Fallback for when there is no custom background color defined. */
+	background: #181818; /* Fallback for when there is no custom background color defined. */
 }
 
 blockquote:before,
